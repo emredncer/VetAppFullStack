@@ -1,6 +1,7 @@
 DEPLOY LINK
 https://vet-app-front-o74sadji7-emredncers-projects.vercel.app/
 
+![uml](https://github.com/emredncer/VetAppFullStack/assets/108138943/f2c9cc2f-1a57-4c4a-a338-c332698a5640)
 
 Veterinary Management System
 This is a Veterinary Management System developed using Java, Spring Boot, JavaScript, React, and Node.js. The system allows for the management of animals, appointments, vaccines, and reports.
